@@ -1,4 +1,4 @@
-# 📖 Introducción
+# 📖 Repo de Prueba + hackaton
 
 <p align="center">
   <img src="https://via.placeholder.com/900x300.png?text=Introducción+al+Tema" alt="Portada" width="90%">
